@@ -1,6 +1,5 @@
 %define		pearname	Phing_d51PearPkg2Task
 %define		php_min_version 5.0.0
-%include	/usr/lib/rpm/macros.php
 Summary:	An alternative pearpkg2 task
 Name:		php-phing-task-d51pearpkg2
 Version:	0.6.3
